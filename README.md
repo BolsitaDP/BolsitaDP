@@ -3,9 +3,9 @@
 <p align="center">Web &amp; Mobile Developer · React, React Native, Next.js · Manizales, Colombia</p>
 
 <p align="center">
-  <a href="https://bolsitadp.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-241E1A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/santiago-giraldo-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sgiraldo118@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://bolsitadp.github.io/portfolio/"><img height="28" src="assets/badges/portfolio.svg" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/santiago-giraldo-dev/"><img height="28" src="assets/badges/linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:sgiraldo118@gmail.com"><img height="28" src="assets/badges/email.svg" alt="Email"></a>
 </p>
 
 ## About me
